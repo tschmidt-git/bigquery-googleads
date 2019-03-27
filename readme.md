@@ -1,4 +1,4 @@
-by Tobias Schmidt @ measurability.net
+by Tobias Schmidt @ [measurability.net](http://www.measurability.net) 
 
 # Google Ads <-> BigQuery
 
